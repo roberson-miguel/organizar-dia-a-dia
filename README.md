@@ -1,6 +1,6 @@
 ## Organizando meu dia a dia.
-[Github para auto-organização](https://dev.to/jpcs369/organizing-your-life-using-github-6an)
-- [x] Projetos
-- [x] Issues(cards)
-- [x] Milestones(Pastas)
-- [ ] O que é Markdown [1](https://www.markdownguide.org/getting-started/) - [2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Github para auto-organização]
+- [ ] Projetos
+- [ ] Issues(cards)
+- [ ] Milestones
+- [ ] O que é Markdown
