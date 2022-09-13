@@ -1,6 +1,6 @@
 ## Organizando meu dia a dia.
 [Github para auto-organização]
-- [ ] Projetos
-- [ ] Issues(cards)
+- [ ] Projeto
+- [ ] Issues
 - [ ] Milestones
-- [ ] O que é Markdown
+- [ ] Markdown
